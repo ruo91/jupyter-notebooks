@@ -25,4 +25,4 @@ vincent==0.4.*
 xlrd==1.2.*
 
 ### tensorflow-notebook
-tensorflow==2.0.1
+tensorflow==2.7.2
